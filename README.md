@@ -9,7 +9,8 @@ Telegram-бот для изучения английских слов с фун�
 ## Установка
 
 ```bash
-git clone <>
+git clone <git clone https://github.com/Karim0v27/bot-for-telegram.git
+>
 cd english_bot
 pip install -r requirements.txt
 python bot.py
