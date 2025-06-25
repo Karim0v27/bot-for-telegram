@@ -9,13 +9,13 @@ Telegram-бот для изучения английских слов с фун�
 ## Установка
 
 ```bash
-git clone <этот репозиторий>
+git clone <>
 cd english_bot
 pip install -r requirements.txt
 python bot.py
 ```
 
 ## Переменные
-В `bot.py` замени `YOUR_BOT_TOKEN_HERE` на свой токен Telegram-бота.
+В `bot.py` замени `7635880673:AAE_1z0xdfI2L234vH5vAYsjLz2aYmsmeS4` на свой токен Telegram-бота.
 
 [README.md](https://github.com/user-attachments/files/20901403/README.md)
